@@ -1,0 +1,100 @@
+OSONO,That was quite a downpour. That boy waited a long time. ,11
+KIKI,It's too late now. I can't go like this anyway. ,10
+JIJI,What's the matter Kiki? Have a headache? Let's eat I'm hungry. ,11
+OSONO,KIKI! ,1
+OSONO,Are you feeling sick?...What a fever! ,6
+KIKI,My head's throbbing. ,3
+OSONO,Last night you didn't dry off completely did you? ,9
+KIKI,I think I'm going to die... ,6
+OSONO,It's just a cold. I'll bring you some medicine. And also you'll have to eat something. ,16
+KIKI,I'm not hungry. ,3
+OSONO,It's better to eat a little even if you don't want to. I'll make you some milk-gruel. Some for Jiji too. ,21
+OSONO,This is best when one has a cold. Here Jiji. It's hot so be careful. Now eat some while it's hot. Can you get up? ,25
+KIKI,Do I absolutely have to? ,5
+OSONO,Well if you want to get healthy again. Oh yes. That boy came to the shop a little while ago. When I told him you were sick he said "You mean witches get sick too?" He wants to visit you later. What do you want to do? ,47
+KIKI,No no! ,2
+OSONO,I thought you'd say that so I turned him down politely. You have a good rest; you overtaxed yourself. I'll open the window OK? ,24
+KIKI,Mrs. Osono?...Oh nothing. ,3
+KIKI,JIJI...JIJI!! ,1
+JIJI,What? ,1
+KIKI,Jiji it's time to eat. ,5
+OSONO,Kiki how are you this morning? ,6
+KIKI,I'm just fine; Sorry I overslept. ,6
+OSONO,That's all right. When you come down I have a favor to ask of you. ,15
+KIKI,The name is 'Kopori'? ,4
+OSONO,Is this enough? ,3
+KIKI,I don't want anything. I can walk there it's so close. ,11
+OSONO,That won't do. Business is business. Be sure to hand it to the right person. ,15
+KIKI,Jiji! ,1
+JIJI,A job? ,2
+KIKI,Well...a friend? What's her name? ,5
+JIJI,It's Lily. I'll be right there. ,6
+KIKI,That's OK it's not far. Miss Lily I'll leave him in your care. ,13
+KIKI,How beautiful... ,2
+TOMBO,Hey Miss Witch! Out for a walk? ,7
+KIKI,No I'm looking for someone named Kopori. ,7
+TOMBO,...That's me! ,2
+KIKI,What?! ,1
+TOMBO,Come around over there. I'll be right down. ,8
+KIKI,It's Mrs. Osono! ,3
+TOMBO,Thank you. ,2
+KIKI,Um I'm sorry about the other day. I kept you waiting for a long time. ,15
+TOMBO,Uh-huh. And how about you; it must've been terrible in that rain. Say can you stop in for a minute? There's something I want to show you. Hurry! ,28
+TOMBO,It was a party to celebrate this. It's part of a self-propelled flying machine. Look. The wings and fuselage are being made somewhere else. We're going to fly it this summer vacation--I'm the pilot. ,34
+Hey,do you want to go to the beach? Let's go see the dirigible that stopped for repairs. ,17
+KIKI,Dirigible? ,1
+TOMBO,Didn't you see it on television? ,6
+KIKI,I was in bed... ,4
+TOMBO,Well then let's go! ,4
+KIKI,Are we going on this? ,5
+TOMBO,Of course. Training training. I have to strengthen my legs. Okay get on. ,13
+KIKI,This is my first time on a bicycle. ,8
+TOMBO,Really? That's something. ,3
+TOMBO,Hold us back with your feet 'til we build up some forward pressure...Here we go...Kick-off! ,15
+KIKI,Shall I get off? ,4
+TOMBO,No-o-o... ,1
+PEOPLE,IN CAR: Go for it!...Looking good! ,6
+TOMBO,When we come to the sharp curve lean over to the side. ,12
+KIKI,What?! ,1
+TOMBO,We can't turn unless we put our weight into it. Now!! That's good that's the way!! That was great! Fantastic! ,20
+KIKI,Is that what you call a 'dirigible'? ,7
+TOMBO,Yeah. Oh!!.....We're flying!! ,3
+KIKI,Tombo are you all right? ,5
+TOMBO,Un...How about you? ,3
+KIKI,I'm okay...(laughs ,2
+TOMBO,Is my face that funny? ,5
+KIKI,...That's not it...Sorry but I was so scared... ,8
+TOMBO,I was scared too. Hey did you use your magic a little while ago? ,14
+KIKI,I don't know; I was in a trance. Oh your bike is a wreck! ,14
+TOMBO,Oh no! The gang'll be mad at me. Kiki keep an eye on it. ,14
+KIKI,What's the matter? ,3
+TOMBO,I've got cramps from pedaling! Wait!... ,6
+TOMBO,Isn't it great? Wouldn't it be wonderful to circle the globe in one of those... Say what was it like the first time you flew? ,25
+KIKI,I don't remember because I was very young but my mother said I wasn't a bit scared. ,17
+TOMBO,I wish I had been born in a witch's family. You can fly with a broom but I have to do it like this... ,24
+KIKI,But flying is part of my work. It's not all fun and games. ,13
+TOMBO,Is that so? But it's work well-suited to your talents. That's great. ,12
+KIKI,I'm glad I came here today because I didn't feel confident. When I see the ocean I feel like I'm going to get better. ,24
+TOMBO,I'll bring you anytime you like. It'll be part of my training. ,12
+KIKI,Tombo you're nice aren't you? ,5
+TOMBO,Hey you finally realized that? ,5
+KIKI,Well at first you seemed like a juvenile delinquent. ,9
+TOMBO,That's what my mother always says "This juvenile delinquent of a son...quit staring at the sky and start studying!!" ,19
+GIRL,A: Great news! ,3
+TOMBO,What is it? ,3
+GIRL,A: Something great! Hurry! ,4
+TOMBO,Wait a minute! ,3
+GIRL,B: They'll let us see the inside of the dirigible. Want to go? ,13
+TOMBO,Wow! Neat! I'm going I'm going! ,6
+GIRL,B: Say who's that girl? ,5
+TOMBO,She's Kiki the witch. Kiki won't you come with us? They'll show us the inside of the dirigible. ,18
+KIKI,No that's okay. ,3
+TOMBO,Come on let's go! ,4
+GIRL,C: I know her; she's the delivery girl. ,8
+GIRL,B: Really? She's already working? ,5
+GIRL,A: Ad-mi-ra-ble. ,2
+TOMBO,Let's go. I'll introduce you to everyone. ,7
+KIKI,I'm not going. Goodbye. ,4
+TOMBO,What's wrong? Why are you angry? ,6
+KIKI,I'm not angry; I have work to do. Don't follow me. ,11
+GIRLS,Tombo we're going! ,3
