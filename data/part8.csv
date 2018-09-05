@@ -25,10 +25,10 @@ BERTHA,Madam! The picture's back. It's upside down!! ,7
 TV,We're here at the seaside park...Blown by a sudden gust of wind the 'Spirit of Freedom' is almost touching ground... ,20
 BERTHA,When you come right down to it it's just a balloon. ,11
 TV,It's lost its balance and the ship is now upside down. They're doing their best to anchor the last rope holding the dirigible. I wonder if they can hold the ship; it looks like it's ready to float away. Ahh it's no good... ,43
-The,tremendous lift of the helium gas is pulling the dirigible higher and higher. The powerful force of the helium matched against several hundred people... ,24
+TV,The tremendous lift of the helium gas is pulling the dirigible higher and higher. The powerful force of the helium matched against several hundred people... ,24
 KIKI,Tombo!! That boy's a friend of mine! ,7
 TV,It's throwing off people one by one and floating higher and higher. Ah even a patrol car is being carried away like a toy. What's going to happen...?! ,28
-A,young boy is being carried away with a patrol car! This is terrible! Who would have thought something like this would happen?! ,22
+TV,A young boy is being carried away with a patrol car! This is terrible! Who would have thought something like this would happen?! ,22
 KIKI,Tombo! ,1
 MADAM,You say he's a friend of yours? ,7
 KIKI,I have to go. ,4
@@ -39,11 +39,11 @@ RADIO,The helium in the dirigible will not explode. Townspeople don't panic and 
 KIKI,How's Tombo?...Is the boy all right?! ,6
 MAN,IN CAR: I don't know but they said the patrol car fell. ,12
 FIRETRUCK,Move aside! Open up the street! Clear the way! ,9
-STREET,SWEEPER: Are you OK? ,4
+STREET-SWEEPER, Are you OK? ,4
 KIKI,Mister please lend me that broom! ,6
-STREET,SWEEPER: Huh? ,2
+STREET-SWEEPER, Huh? ,2
 KIKI,Please! I promise to return it! ,6
-STREET,SWEEPER: Well I guess... ,4
+STREET-SWEEPER, Well I guess... ,4
 KIKI,Thank you! ,2
 KIKI,Fly!! ,1
 BYSTANDER,She's flying...! ,2
@@ -57,7 +57,7 @@ TOMBO,Mister! Get away! ,3
 CARETAKER,Grab this! ,2
 KIKI,Fly faster! Hey!! ,3
 ANNOUNCER,Listen to that! It's the tremendous noise of the gas escaping. We can't see from here what happened to the young lad. ,22
-It's,going to fall! The gas is escaping! The dirigible is going to fall!! It's caught! It stopped! It's been stopped! Look the lad is still there! It's a miracle! The lad is still hanging there! But then how are they going to save him? If they don't do something that brave lad... ,52
+ANNOUNCER,It's going to fall! The gas is escaping! The dirigible is going to fall!! It's caught! It stopped! It's been stopped! Look the lad is still there! It's a miracle! The lad is still hanging there! But then how are they going to save him? If they don't do something that brave lad... ,52
 ANNOUNCER,What what was that?! A bird...No it's a young girl! A young girl is flying through the air!! It's a witch! It's not a broom! It's a witch riding on a push broom!! ,33
 MADAM,It's Kiki! ,2
 BERTHA,Go! ,1
@@ -73,12 +73,12 @@ ANNOUNCER,You can do it! Just a bit more! ,8
 CROWD,Go get him! Go get him! Go get him!! ,9
 CAPTAIN,You can do it! ,4
 ANNOUNCER,She caught him!! She caught him in mid-air!! ,8
-They've,just touched down! It's an emotional scene! It looks like the crew of the dirigible is safe too! ,18
-STREET-,SWEEPER: I lent her that push-broom you know! ,8
+ANNOUNCER,They've just touched down! It's an emotional scene! It looks like the crew of the dirigible is safe too! ,18
+STREET-SWEEPER, I lent her that push-broom you know! ,8
 MADAM,Ahh!...Stop it Bertha! ,3
 BERTHA,She did it she did ,5
 OSONO,Good girl Kiki! Good for you! ,6
-Dear!!,Call the doctor! I think it's time! ,7
+OSONO,Dear!! Call the doctor! I think it's time! ,7
 BAKER,Oi!!... ,1
 OKINO,Mother!! It's a letter from Kiki! ,6
 OKINO,Father Mother how are you? Jiji and I are both very well. My work's on the right track and I'm confident. It's been hard sometimes but I love this town. ,30

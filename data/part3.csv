@@ -12,7 +12,7 @@ OSONO,Oh!...(she sees her Oho!... ,4
 KIKI,The bakery lady asked me to deliver this. Something you forgot. ,11
 OSONO,Thank you. Sorry to keep you waiting. The usual right? ,10
 OSONO,Ah thank you for your trouble. Come on in and wait a second. ,13
-Thank,you. Sorry to keep you waiting. Yes thanks. Please take care. ,11
+OSONO,Thank you. Sorry to keep you waiting. Yes thanks. Please take care. ,11
 OSONO,That was quite a surprise. So you can fly! ,9
 KIKI,I came to deliver this letter. ,6
 OSONO,It's that lady's signature. ,4
@@ -24,7 +24,7 @@ OSONO,This is for you. ,4
 OSONO,I see...So that's why you're looking for your own town. ,10
 KIKI,The people of this town don't seem to like witches. ,10
 OSONO,It's a big town and there are all kinds of people. But me I like you. And have you found a place to stay? ,24
-Well,if that's the case why didn't you say something earlier. We have a spare room you can use. ,18
+OSONO,Well if that's the case why didn't you say something earlier. We have a spare room you can use. ,18
 KIKI,Really Madam? ,2
 OSONO,Never mind the 'Madam'. Here they all call me 'Osono of the bakery'. ,13
 KIKI,I'm Kiki and this black cat is Jiji. ,8
@@ -46,10 +46,10 @@ KIKI,Good morning! ,2
 OSONO,Morning! Did you sleep well? ,5
 KIKI,Uh-huh. It smells good. Is it all right if I help? ,11
 OSONO,Um. ,1
-So,a delivery service? ,3
+OSONO, So a delivery service? ,3
 KIKI,Since flying is the only skill I have I thought maybe a delivery service. ,14
 OSONO,That sounds interesting...a flying delivery service. You came up with a good idea! ,13
-You,can use that room. ,4
+OSONO,You can use that room. ,4
 KIKI,Really?! I'm so glad. I'm thinking of having a phone put in. ,12
 OSONO,Won't that be expensive? ,4
 KIKI,I brought a little money with me. ,7

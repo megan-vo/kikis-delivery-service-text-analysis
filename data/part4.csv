@@ -54,10 +54,10 @@ KIKI,Uh-huh. Now don't move. ,4
 JIJI,How about breathing? ,3
 KIKI,As little as possible. ,4
 KETTO,It's Auntie's present! How weird! ,5
-KETTO'S,It took you a long time didn't it? My sister called MOTHER so we were expecting you. ,17
+KETTO'S-MOTHER,It took you a long time didn't it? My sister called so we were expecting you. ,16
 KIKI,I'm sorry. Ah...Would you sign for it please? ,8
 KETTO,Mother is it all right if I transfer the canary? ,10
-KETTO'S,Yes but be careful not to let it get away. MOTHER ,11
+KETTO'S-MOTHER,Yes but be careful not to let it get away. ,10
 KETTO,Okay. ,1
 KIKI,Thank you very much. ,4
 KETTO,Now stay calm Pitchi. Hey you're not getting away! ,9
@@ -78,7 +78,7 @@ URSULA,How about a trade-off? ,4
 URSULA,So you're on your own at 13? I think that's great--I like the idea! ,14
 KIKI,Ah can it be fixed? ,5
 URSULA,I told you leave it to me. ,7
-KETTO'S,Ketto! Ketto hurry and take a bath! The guests will MOTHER be here soon! KET-TO!! ,15
+KETTO'S-MOTHER,Ketto! Ketto hurry and take a bath! The guests will be here soon! KET-TO!! ,14
 URSULA,Finished! ,1
 KIKI,Thank you. ,2
 URSULA,OK hurry and go rescue Jiji. ,6
@@ -86,16 +86,16 @@ KIKI,But I haven't finished cleaning. ,5
 URSULA,That's plenty. Hurry hurry! ,4
 KIKI,Thank you. ,2
 KETTO,Jeff is really a funny one. ,6
-KETTO'S,: It's so comical; Jeff has taken such a liking to that MOTHER stuffed cat he won't let go of it. ,21
+KETTO'S-MOTHER,It's so comical; Jeff has taken such a liking to that stuffed cat he won't let go of it. ,19
 GUEST,A: I wonder if he thinks it's a puppy? ,9
 GUEST,B: If Maki hears that she'll be angry. ,8
 KETTO,It's OK I'm going to give it to Jeff. ,9
-KETTO'S,Why don't you write a letter to Aunt Maki? MOTHER ,10
+KETTO'S-MOTHER,Why don't you write a letter to Aunt Maki? ,9
 KETTO,Okay. ,1
 GUEST,A: Jeff has really aged hasn't he? You have to be nice to him Ketto. ,15
 KETTO,But all he does is sleep. ,6
 GUEST,A: Isn't that the truth! ,5
-KETTO'S,Ketto Jeff wants to go out. Open the door for him. MOTHER ,12
+KETTO'S-MOTHER,Ketto Jeff wants to go out. Open the door for him. ,11
 KETTO,Okay. When you're done close the door yourself. ,8
 KIKI,JIJI!! ,1
 JIJI,You're late! ,2
