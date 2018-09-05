@@ -147,15 +147,15 @@ KIKI:         As little as possible.
 
 KETTO:        It's Auntie's present!   How weird!  (laughs)
 
-KETTO'S:      It took you a long time, didn't it?  My sister called,
-MOTHER        so we were expecting you.
+KETTO'S-MOTHER:      It took you a long time, didn't it?  My sister called,
+              so we were expecting you.
 
 KIKI:         I'm sorry.  Ah...Would you sign for it, please?
 
 KETTO:        Mother, is it all right if I transfer the canary?
 
-KETTO'S:      Yes, but be careful not to let it get away.
-MOTHER
+KETTO'S-MOTHER:      Yes, but be careful not to let it get away.
+
 
 KETTO:        Okay.
 
@@ -220,8 +220,8 @@ URSULA:       I told you, leave it to me.
 
 (The house on the cape...)
 
-KETTO'S:      Ketto!  Ketto, hurry and take a bath!  The guests will
-MOTHER        be here soon!  KET-TO!!
+KETTO'S-MOTHER:      Ketto!  Ketto, hurry and take a bath!  The guests will
+                 be here soon!  KET-TO!!
 
 (The log cabin...)
 
@@ -242,8 +242,8 @@ KIKI:         Thank you.
 
 KETTO:        Jeff (the dog) is really a funny one.  (laughter)
 
-KETTO'S :     It's so comical;  Jeff has taken such a liking to that
-MOTHER        stuffed cat, he won't let go of it.
+KETTO'S-MOTHER:     It's so comical;  Jeff has taken such a liking to that
+             stuffed cat, he won't let go of it.
 
 GUEST A:      I wonder if he thinks it's a puppy?
 
@@ -251,8 +251,8 @@ GUEST B:      If Maki hears that, she'll be angry.  (laughter)
 
 KETTO:        It's OK, I'm going to give it to Jeff.
 
-KETTO'S:      Why don't you write a letter to Aunt Maki?
-MOTHER
+KETTO'S-MOTHER:      Why don't you write a letter to Aunt Maki?
+
 
 KETTO:        Okay.
 
@@ -263,8 +263,8 @@ KETTO:        But all he does is sleep.
 
 GUEST A:      Isn't that the truth!
 
-KETTO'S:      Ketto, Jeff wants to go out.  Open the door for him.
-MOTHER
+KETTO'S-MOTHER:      Ketto, Jeff wants to go out.  Open the door for him.
+
 
 KETTO:        Okay.  When you're done, close the door yourself.
 
