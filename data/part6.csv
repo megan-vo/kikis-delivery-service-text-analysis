@@ -1,4 +1,3 @@
-Speaker,Dialogue,WordCount
 OSONO,That was quite a downpour. That boy waited a long time. ,11
 KIKI,It's too late now. I can't go like this anyway. ,10
 JIJI,What's the matter Kiki? Have a headache? Let's eat I'm hungry. ,11
@@ -42,7 +41,7 @@ TOMBO,Thank you. ,2
 KIKI,Um I'm sorry about the other day. I kept you waiting for a long time. ,15
 TOMBO,Uh-huh. And how about you; it must've been terrible in that rain. Say can you stop in for a minute? There's something I want to show you. Hurry! ,28
 TOMBO,It was a party to celebrate this. It's part of a self-propelled flying machine. Look. The wings and fuselage are being made somewhere else. We're going to fly it this summer vacation--I'm the pilot. ,34
-Hey,do you want to go to the beach? Let's go see the dirigible that stopped for repairs. ,17
+TOMBO, Hey do you want to go to the beach? Let's go see the dirigible that stopped for repairs. ,17
 KIKI,Dirigible? ,1
 TOMBO,Didn't you see it on television? ,6
 KIKI,I was in bed... ,4
