@@ -24,7 +24,7 @@ KIKI,I decided just a little while ago. ,7
 OKINO,But look I borrowed the camping equipment for next week... ,10
 KIKI,I'm sorry. ,2
 OKINO,This won't do! Ah...Ah! ,4
-This,is Okino. Kiki's leaving tonight... Yes that's right. ,8
+OKINO,Thank you. We'll be waiting. This is Okino. Kiki's leaving tonight... Yes that's right. ,14
 KOKIRI,It looks nice doesn't it? ,5
 KIKI,If only it were purple... ,5
 KOKIRI,Witches have worn that since long ago. ,7
@@ -35,7 +35,7 @@ KOKIRI,And don't forget to always smile. ,6
 KIKI,O-kay! ,1
 KOKIRI,And write us a letter as soon as you're settled. ,10
 KIKI,Father! May I have that radio? All right? The radio?! Hooray!! ,11
-OKINO,,0
+OKINO,I finally lost it... Hey let me see my little witch. You look a lot like your mother when she was younger. ,22
 KIKI,Father lift me up 'high-high' like when I was small. ,10
 OKINO,All right. When did you get so big?... If it doesn't go well you can always return home. ,18
 KIKI,That's not going to happen. ,5
@@ -60,6 +60,7 @@ KIKI,But I worked so hard to make this one. Right Jiji? ,11
 JIJI,I think your mother's broom is better... ,7
 KIKI,Backstabber! ,1
 DORA,Kiki when you get settled in your new town you can make your own can't you? ,16
+KIKI,Well... ,1
 OKINO,Be careful. ,2
 KOKIRI,Chin up. ,2
 KIKI,I'll be off. ,3
@@ -94,6 +95,7 @@ JIJI,Won't we get a scolding? ,5
 KIKI,Well if we're discovered. I'm soaking wet. ,7
 JIJI,Is it swaying? ,3
 KIKI,Um...it smells good. ,3
+KIKI,Ah Ah! ,2
 KIKI,Sorry I didn't know it was your dinner. ,8
 KIKI,Jiji it's the sea the sea! How wonderful! It's my first view of the sea! ,15
 JIJI,Big deal! It's just a lot of water. ,8

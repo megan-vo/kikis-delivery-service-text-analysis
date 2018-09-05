@@ -14,17 +14,17 @@ import java.io.FileNotFoundException;
 
 public class TranscriptParser {
   public static void main(String[] args) throws FileNotFoundException {
-    File script = new File("transcripts/part8.txt");
+    File script = new File("transcripts/part" + args[0] + ".txt");
     Scanner input = new Scanner(script);
 
-    PrintStream output = new PrintStream("data/part8.csv");
+    PrintStream output = new PrintStream("data/part" + args[0] + ".csv");
     parseData(input, output);
   }
 
   // Speaker,Dialogue,WordCount
   public static void parseData(Scanner input, PrintStream output) throws FileNotFoundException {
     while (input.hasNextLine()) {
-      String line = input.nextLine().replace(",", ""); // not to be confused with csv commas
+      String line = input.nextLine().replace(",", "").replace("\"", "'"); // not to be confused with csv commas
       int wordCount = 0;
 
       // If line starts with and ends with ( ) then it is not dialogue
@@ -50,7 +50,7 @@ public class TranscriptParser {
         if (input.hasNextLine()) {
           String nextLine = "dummy";
           while (input.hasNextLine() && !nextLine.equals("")) {
-            nextLine = input.nextLine().replace(",", "");
+            nextLine = input.nextLine().replace(",", "").replace("\"", "'");
             lineScan = new Scanner(nextLine);
 
             while (lineScan.hasNext()) {

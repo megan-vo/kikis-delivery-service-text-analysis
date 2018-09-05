@@ -11,7 +11,7 @@ KIKI,I'm not hungry. ,3
 OSONO,It's better to eat a little even if you don't want to. I'll make you some milk-gruel. Some for Jiji too. ,21
 OSONO,This is best when one has a cold. Here Jiji. It's hot so be careful. Now eat some while it's hot. Can you get up? ,25
 KIKI,Do I absolutely have to? ,5
-OSONO,Well if you want to get healthy again. Oh yes. That boy came to the shop a little while ago. When I told him you were sick he said "You mean witches get sick too?" He wants to visit you later. What do you want to do? ,47
+OSONO,Well if you want to get healthy again. Oh yes. That boy came to the shop a little while ago. When I told him you were sick he said 'You mean witches get sick too?' He wants to visit you later. What do you want to do? ,47
 KIKI,No no! ,2
 OSONO,I thought you'd say that so I turned him down politely. You have a good rest; you overtaxed yourself. I'll open the window OK? ,24
 KIKI,Mrs. Osono?...Oh nothing. ,3
@@ -79,7 +79,7 @@ TOMBO,I'll bring you anytime you like. It'll be part of my training. ,12
 KIKI,Tombo you're nice aren't you? ,5
 TOMBO,Hey you finally realized that? ,5
 KIKI,Well at first you seemed like a juvenile delinquent. ,9
-TOMBO,That's what my mother always says "This juvenile delinquent of a son...quit staring at the sky and start studying!!" ,19
+TOMBO,That's what my mother always says 'This juvenile delinquent of a son...quit staring at the sky and start studying!!' ,19
 GIRL,A: Great news! ,3
 TOMBO,What is it? ,3
 GIRL,A: Something great! Hurry! ,4

@@ -31,7 +31,7 @@ JIJI,They said a big wind is coming! ,7
 KIKI,What?! ,1
 JIJI,They're saying 'Let's fly higher.' ,5
 KIKI,Oh no!! ,2
-Please,excuse me! I wasn't going to steal your eggs! ,9
+KIKI,This won't do! I'm sorry I'm sorry! Please excuse me! I wasn't going to steal your eggs! ,17
 KIKI,Wow that was scary! ,4
 JIJI,Well it was your fault. After all they warned you about the wind. ,13
 KIKI,You're right. Aren't they something? Look how high they're flying using that wind. ,13
@@ -52,6 +52,7 @@ JIJI,Is that the house? ,4
 KIKI,Uh-huh. Now don't move. ,4
 JIJI,How about breathing? ,3
 KIKI,As little as possible. ,4
+KETTO,It's Auntie's present! How weird! ,5
 KETTO'S,It took you a long time didn't it? My sister called MOTHER so we were expecting you. ,17
 KIKI,I'm sorry. Ah...Would you sign for it please? ,8
 KETTO,Mother is it all right if I transfer the canary? ,10
@@ -83,8 +84,10 @@ URSULA,OK hurry and go rescue Jiji. ,6
 KIKI,But I haven't finished cleaning. ,5
 URSULA,That's plenty. Hurry hurry! ,4
 KIKI,Thank you. ,2
+KETTO,Jeff is really a funny one. ,6
 KETTO'S,: It's so comical; Jeff has taken such a liking to that MOTHER stuffed cat he won't let go of it. ,21
 GUEST,A: I wonder if he thinks it's a puppy? ,9
+GUEST,B: If Maki hears that she'll be angry. ,8
 KETTO,It's OK I'm going to give it to Jeff. ,9
 KETTO'S,Why don't you write a letter to Aunt Maki? MOTHER ,10
 KETTO,Okay. ,1
